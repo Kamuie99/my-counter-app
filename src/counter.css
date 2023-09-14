@@ -5,6 +5,7 @@ body {
 .counter {
   padding: 20px;
   margin: 20px;
+  margin-top: 150px;
   text-align: center;
   background-color: #252525;
 
@@ -29,7 +30,7 @@ body {
 }
 
 button {
-  border: 1px solid black;
+  border: 2px solid black;
   border-radius: 10px;
   font-size: 18px;
   margin: 5px;
@@ -39,7 +40,7 @@ button {
   width: 50%;
 
   background-color: #cbd0c9;
-  color: #fff;
+  color: black;
   cursor: pointer;
 }
 
